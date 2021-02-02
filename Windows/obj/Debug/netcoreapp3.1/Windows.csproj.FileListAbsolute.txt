@@ -1,0 +1,16 @@
+C:\Users\nicky\Desktop\Windows\Windows\bin\Debug\netcoreapp3.1\Windows.exe
+C:\Users\nicky\Desktop\Windows\Windows\bin\Debug\netcoreapp3.1\Windows.deps.json
+C:\Users\nicky\Desktop\Windows\Windows\bin\Debug\netcoreapp3.1\Windows.runtimeconfig.json
+C:\Users\nicky\Desktop\Windows\Windows\bin\Debug\netcoreapp3.1\Windows.runtimeconfig.dev.json
+C:\Users\nicky\Desktop\Windows\Windows\bin\Debug\netcoreapp3.1\Windows.dll
+C:\Users\nicky\Desktop\Windows\Windows\bin\Debug\netcoreapp3.1\Windows.pdb
+C:\Users\nicky\Desktop\Windows\Windows\obj\Debug\netcoreapp3.1\Windows.csprojAssemblyReference.cache
+C:\Users\nicky\Desktop\Windows\Windows\obj\Debug\netcoreapp3.1\Windows.Form1.resources
+C:\Users\nicky\Desktop\Windows\Windows\obj\Debug\netcoreapp3.1\Windows.Properties.Resources.resources
+C:\Users\nicky\Desktop\Windows\Windows\obj\Debug\netcoreapp3.1\Windows.csproj.GenerateResource.cache
+C:\Users\nicky\Desktop\Windows\Windows\obj\Debug\netcoreapp3.1\Windows.AssemblyInfoInputs.cache
+C:\Users\nicky\Desktop\Windows\Windows\obj\Debug\netcoreapp3.1\Windows.AssemblyInfo.cs
+C:\Users\nicky\Desktop\Windows\Windows\obj\Debug\netcoreapp3.1\Windows.csproj.CoreCompileInputs.cache
+C:\Users\nicky\Desktop\Windows\Windows\obj\Debug\netcoreapp3.1\Windows.dll
+C:\Users\nicky\Desktop\Windows\Windows\obj\Debug\netcoreapp3.1\Windows.pdb
+C:\Users\nicky\Desktop\Windows\Windows\obj\Debug\netcoreapp3.1\Windows.genruntimeconfig.cache
